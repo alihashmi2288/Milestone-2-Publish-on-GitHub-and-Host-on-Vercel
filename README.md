@@ -1,2 +1,2 @@
-# Milestone1-Static-Interactive-Resume-Builder-
-Milestone 1: Static Interactive Resume Builder 
+# Milestone2-Hackathon-Resume-Builder-
+Milestone 2: Publish on GitHub and Host on Vercel
